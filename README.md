@@ -1,2 +1,2 @@
 # 3D-Bejeweled
-3D Bejeweled
+3D Bejeweled without bonuses
