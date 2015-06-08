@@ -17,6 +17,7 @@ class Box(Cell):
     def highscore(self):
         pass
     def is_three_row(self):
+        #three or more in a row will explode
         pass
 
 def play(Box):
